@@ -18,7 +18,7 @@
  
  <img align="center" alt="Jhon-TS" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 </div>
-#
+
 
   
 
