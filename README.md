@@ -2,7 +2,6 @@
 <Div>
 <Img align="left" widht="47%" src="https://github-readme-stats.vercel.app/api?username=Jhonzz&show_icons=true&theme=radical"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonzz&layout=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </Div>
