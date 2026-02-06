@@ -1,7 +1,5 @@
 # Olá, eu sou o Jhon 👋
 <Div>
-<Img align="left" widht="47%" src="https://github-readme-stats.vercel.app/api?username=Jhonzz&show_icons=true&theme=radical"/>
-
 
 
 </Div>
