@@ -3,7 +3,7 @@
 Redes sociais:<br>
 <div align="center">
   <a href="https://www.linkedin.com/in/jhonpablo/">
-    <img alt="[Icon]" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/[Theme]/[Icon].svg"> 
+    <img alt="Linkedin" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Linkedin.svg"> 
   </a>
 </div>
 
