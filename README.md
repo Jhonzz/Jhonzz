@@ -1,7 +1,7 @@
 # Olá, eu sou o Jhon 👋
 <Div>
-Redes sociais:<br>
-<div align="center">
+**Redes sociais**: 
+<div align="left">
   <a href="https://www.linkedin.com/in/jhonpablo/">
     <img alt="Linkedin" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Linkedin.svg"> 
   </a>
